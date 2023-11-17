@@ -46,7 +46,8 @@ A build pipeline is established to link these jobs, ensuring sequential executio
    Set up a build pipeline using the Build Pipeline Plugin to visualize and manage the CI/CD process.
 ![](images/Trigger.png)<br>
 ![](images/Build%20Pipeline.png)<br>
-![](images/Git-Docker-Jenkins.png)<br>
+![](images/pipeline-1.png)<br>
+![](images/pipeline-2.png)<br>
 
 ## Credits
 
