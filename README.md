@@ -56,6 +56,6 @@ A build pipeline is established to link these jobs, ensuring sequential executio
 
 ## License
 
-This project is licensed under the MIT License, a permissive open-source license. You are free to use, modify, and distribute the code in your projects, whether they are commercial, open-source, or personal. See the [LICENSE](LICENSE) file for the full text of the license agreement.
+This project is licensed under the MIT License, a permissive open-source license. You are free to use, modify, and distribute the code in your projects, whether they are commercial, open-source, or personal. See the [LICENSE](LICENSE.md) file for the full text of the license agreement.
 
 
